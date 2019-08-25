@@ -1,30 +1,42 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="index.html" resolutions="1x" timestamp="1515847636692">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="index.html" resolutions="1x" timestamp="1566751497030">
   <folder name="css">
-    <file name="site_global.css" crc="57891779"/>
-    <file name="index.css" crc="358787725" ref="index"/>
-    <file name="iefonts_index.css" crc="342241727" ref="index"/>
+    <file name="site_global.css" crc="478080576"/>
+    <file name="index.css" crc="366867087" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
-    <file name="museutils.js" crc="163421577" ref="index"/>
+    <file name="museutils.js" crc="340535759" ref="index"/>
     <file name="whatinput.js" crc="86476730" ref="index"/>
-    <file name="museconfig.js" crc="168988563" ref="index"/>
-    <file name="jquery.musemenu.js" crc="146495465" ref="index"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="379354253" ref="index"/>
-    <file name="jquery.watch.js" crc="104486786" ref="index"/>
-    <file name="jquery.scrolleffects.js" crc="4065090679" ref="index"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index"/>
-    <file name="require.js" crc="244322403" ref="index"/>
+    <file name="museconfig.js" crc="4286661555" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="39568856" ref="index"/>
+    <file name="require.js" crc="7928878" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="w_804c228c.jpg" crc="4142305287" ref="index"/>
-    <file name="u375-4.png" crc="4221225329" ref="index"/>
-    <file name="u387-4.png" crc="121180607" ref="index"/>
-    <file name="mist-1515510630966-5356-u2065-fr.png" crc="151109958" ref="index"/>
-    <file name="facebook-logo.png" crc="346548560" seo="true" ref="index"/>
-    <file name="github-sign.png" crc="3898938442" seo="true" ref="index"/>
-    <file name="vk.png" crc="4028352545" seo="true" ref="index"/>
-    <file name="envelope.png" crc="420442162" seo="true" ref="index"/>
+    <file name="w_804c228c.jpg" crc="4142305287" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="u375.png" crc="3835426828" ref="index"/>
+    <file name="u375-m.png" crc="3835426828" ref="index"/>
+    <file name="u387.png" crc="262940705" ref="index"/>
+    <file name="u387-m.png" crc="262940705" ref="index"/>
+    <file name="facebook-logo.png" crc="346548560" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="vk.png" crc="4028352545" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="github-sign.png" crc="3898938442" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="envelope.png" crc="420442162" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="try1.png" crc="3980152439" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="468497450" seo="true" mt="1515846923542" redirect="true"/>
+  <file name="index.html" crc="299599125" seo="true" mt="1566751486060" redirect="true"/>
 </manifest>

@@ -1,33 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://index.html/index.html</loc>
-    <lastmod>2018-01-13</lastmod>
+    <lastmod>2019-08-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://index.html/images/github-sign.png</loc>
-    <lastmod>2018-01-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://index.html/images/facebook-logo.png</loc>
-    <lastmod>2018-01-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://index.html/images/envelope.png</loc>
-    <lastmod>2018-01-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://index.html/images/vk.png</loc>
-    <lastmod>2018-01-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://index.html/images/facebook-logo.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/vk.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/github-sign.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/envelope.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/try1.png</image:loc>
+    </image:image>
   </url>
 </urlset>
